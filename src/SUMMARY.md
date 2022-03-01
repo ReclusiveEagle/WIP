@@ -21,7 +21,7 @@
 - [Masking, Limiting, and Related Functions](encoding/masking-limiting-etc.md)
 - [Descaling](encoding/descaling.md)
 - [Resampling](encoding/resampling.md)
-- [Germany Build Order](encoding/Germany-Build-Order.md)
+- [Germany Build Order](Germany-Build-Order.md)
 - [Codecs]()
     - [x264](encoding/codecs/x264.md)
 
