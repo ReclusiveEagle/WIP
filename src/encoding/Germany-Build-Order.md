@@ -23,8 +23,8 @@ Purchasing Units early is a good option. Either from passive gold or selling lux
 Advantages:                                               |Disadvantages:                                            |
 ----------------------------------------------------------|----------------------------------------------------------|
 Higher Population.                                        |Less Gold.                                                |
-Does not rely on Honor to gain Culture.                   |Failing to Locate & Capture Barbarian Units or losing a   |
-Completes Tree Early by fully committing to Tradition.    |Unit early makes you Extremely Vulnerable.                |
+Does not rely on Honor to gain Culture.                   |Failing to Locate & Capture Barbarian Units or losing a Unit early makes you Extremely Vulnerable. |
+Completes Tree Early by fully committing to Tradition.    |
 Less reliant on RNG to gain advantages.                   |
 
 <br>
