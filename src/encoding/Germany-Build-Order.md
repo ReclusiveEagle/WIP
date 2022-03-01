@@ -11,6 +11,7 @@ Scout-> M/G-> Archer-> Worker-> Settler [5]              |
 Scout-> Monument-> Archer-> M/G-> Worker-> Settler [6]   |
 
 <br>
+
 Notes:                                                                                                               |
 ---------------------------------------------------------------------------------------------------------------------|
 M/G = Monument/Granary                                                                                               |
@@ -18,6 +19,7 @@ Tradition Opening you need 2 Scouts to search for Barbarians for your Warrior to
 Purchasing Units early is a good option. Either from passive gold or selling luxuary for money needed.               |
 
 <br>
+
 Advantages:                                               |Disadvantages:                                            |
 ----------------------------------------------------------|----------------------------------------------------------|
 Higher Population.                                        |Less Gold.                                                |
@@ -42,13 +44,17 @@ Or                                                        |
 Scout-> Monument-> Worker-> Settler [4]                   |
 Scout-> Monument-> Granary-> Worker-> Settler [5]         |
 Scout-> Scout-> Monument-> Archer-> Worker-> Settler [6]  |
+
 <br>
+
 Notes:                                                    |
 ----------------------------------------------------------|
 M/G = Monument/Granary                                    |
 Honor Opening you need to aggressively Scout to kill & Capture 3+ Barbarians to make up for the loss of +3 early culture|
 Purchasing Units early is a good option. Either from passive gold or selling luxuary for money needed.         |
+
 <br>
+
 Advantages:                                               |Disadvantages:                                            |
 ----------------------------------------------------------|----------------------------------------------------------|
 Always know where Barbarian camps are.                    |Relies on RNG to make up for the loss of Culture.         |
