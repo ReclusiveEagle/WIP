@@ -53,7 +53,7 @@ Advantages:                                               |Disadvantages:       
 ----------------------------------------------------------|----------------------------------------------------------|
 Always know where Barbarian camps are.                    |Relies on RNG to make up for the loss of Culture.         |
 More Gold overall due to always knowing where camps are.  |Barbarian Camps Spawning falls off after Turn 100+        |
-Potential to earn 5 Policies by Turn 120 (RNG)            |Accelerates early Policy gain at the cost of increasing   |
-Potential to gain more Units than normal (RNG)            |Policy costs overall.                                     |
+Potential to earn 5 Policies by Turn 120 (RNG)            |Accelerates early Policy gain at the cost of increasing Policy costs overall. |
+Potential to gain more Units than normal (RNG)            |
 
 
